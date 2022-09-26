@@ -63,7 +63,7 @@ global.psaweria = 'https://saweria.com/LeonGanz'
 global.nomorbot = '6281334346404'
 global.nomorown = '628155174757'
 global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nameown = 'HaqzzXD'
 
 
 /*============== STAFF ==============*/
